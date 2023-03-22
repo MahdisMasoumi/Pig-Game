@@ -1,0 +1,2 @@
+# Pig-Game
+In this project, I created a simple game to showcase my proficiency in JavaScript. I implemented the game logic and functionality using JavaScript, and designed a responsive and visually appealing user interface using CSS and HTML. To make the user experience more engaging, I utilized CSS transitions and animations. Overall, the project demonstrates my skills in web development and my ability to create an interactive and engaging user experience.
