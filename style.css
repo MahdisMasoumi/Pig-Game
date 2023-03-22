@@ -104,7 +104,6 @@ main {
   font-size: 3.5rem;
 }
 
-/* ABSOLUTE POSITIONED ELEMENTS */
 .btn {
   position: absolute;
   left: 50%;
@@ -218,17 +217,6 @@ main {
   }
 }
 
-/* @keyframes moveInBottom {
-  0%{
-      opacity: 0;
-      transform: translateY(3rem)
-  }
-
-  100%{
-      opacity: 1;
-      transform: translate(0);
-  }
-} */
 
 .mahdis{
   position: fixed;
